@@ -8,33 +8,28 @@ namespace Lab09_TicketGenerator.App
 {
     public partial class App : Application
     {
-        public static DatabaseService DatabaseService { get; private set; }
-        public static QuestionRepository QuestionRepository { get; private set; }
-        public static TicketSettingsRepository SettingsRepository { get; private set; }
-        public static TicketGeneratorService TicketGenerator { get; private set; }
-
-        /// <summary>
-        /// Обработчик запуска приложения
-        /// </summary>
         private void Application_Startup(object sender, StartupEventArgs e)
         {
-            // Инициализация сервисов
-            InitializeServices();
+            try
+            {
+                // Создаем сервисы и репозитории
+                var dbService = new DatabaseService();
+                dbService.TestConnection(); // Проверяем подключение
 
-            // Создание и отображение главного окна
-            var mainWindow = new MainWindow();
-            mainWindow.Show();
-        }
+                var questionRepository = new QuestionRepository(dbService);
+                var settingsRepository = new TicketSettingsRepository(dbService);
+                var ticketGenerator = new TicketGeneratorService(questionRepository, settingsRepository);
 
-        /// <summary>
-        /// Инициализация сервисов приложения
-        /// </summary>
-        private void InitializeServices()
-        {
-            DatabaseService = new DatabaseService();
-            QuestionRepository = new QuestionRepository(DatabaseService);
-            SettingsRepository = new TicketSettingsRepository(DatabaseService);
-            TicketGenerator = new TicketGeneratorService(QuestionRepository, SettingsRepository);
+                // Создаем главное окно с передачей всех зависимостей
+                var mainWindow = new MainWindow(questionRepository, settingsRepository, ticketGenerator);
+                mainWindow.Show();
+            }
+            catch (System.Exception ex)
+            {
+                MessageBox.Show($"Ошибка запуска приложения: {ex.Message}", "Ошибка",
+                              MessageBoxButton.OK, MessageBoxImage.Error);
+                Shutdown();
+            }
         }
     }
 }
