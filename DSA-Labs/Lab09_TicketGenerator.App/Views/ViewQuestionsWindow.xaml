@@ -1,0 +1,38 @@
+﻿<Window x:Class="Lab09_TicketGenerator.App.Views.ViewQuestionsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Просмотр всех вопросов" Height="500" Width="800"
+        WindowStartupLocation="CenterOwner">
+
+    <DockPanel Margin="10">
+        <!-- Панель фильтров -->
+        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" Margin="0,0,0,10">
+            <Label Content="Фильтр по типу:" VerticalAlignment="Center"/>
+            <ComboBox x:Name="CmbFilterType" Width="100" Margin="10,0,20,0" SelectionChanged="Filter_Changed">
+                <ComboBoxItem Content="Все" IsSelected="True"/>
+                <ComboBoxItem Content="Practice"/>
+                <ComboBoxItem Content="Lecture"/>
+                <ComboBoxItem Content="Blitz"/>
+            </ComboBox>
+
+            <Label Content="Фильтр по теме:" VerticalAlignment="Center"/>
+            <ComboBox x:Name="CmbFilterTopic" Width="150" Margin="10,0,0,0" SelectionChanged="Filter_Changed"/>
+
+            <Button Content="Сбросить фильтры" Click="ResetFilters_Click" Margin="20,0,0,0" Padding="10,5"/>
+        </StackPanel>
+
+        <!-- Список вопросов -->
+        <DataGrid x:Name="QuestionsGrid" DockPanel.Dock="Top" 
+                  AutoGenerateColumns="False" CanUserAddRows="False"
+                  IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="40"/>
+                <DataGridTextColumn Header="Текст" Binding="{Binding Text}" Width="*"/>
+                <DataGridTextColumn Header="Тип" Binding="{Binding Type}" Width="80"/>
+                <DataGridTextColumn Header="Тема" Binding="{Binding Topic}" Width="120"/>
+                <DataGridTextColumn Header="Сложность" Binding="{Binding Difficulty}" Width="70"/>
+                <DataGridCheckBoxColumn Header="Активен" Binding="{Binding IsActive}" Width="60"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </DockPanel>
+</Window>

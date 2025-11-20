@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.36623.8 d17.14
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11217.181 d18.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab01_Matrix", "Lab01_Matrix\Lab01_Matrix.csproj", "{FBAD3E9B-94F7-4DAA-B614-FF65333B2772}"
 EndProject
@@ -40,6 +40,16 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Отчет", "Отчет", "{8AAD5174-D455-41CA-BA08-39283B30458C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab05_SearchSortAnalysis", "Lab05_SearchSortAnalysis\Lab05_SearchSortAnalysis.csproj", "{AA5AA256-D0C2-4A32-84AD-7C316AF48651}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab06_07_08_10", "Lab06_07_08_10", "{5EB3BED4-8DC0-420D-A2ED-F15917A5A4AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab06_10_Collections", "Lab06_10_Collections\Lab06_10_Collections.csproj", "{3EDF9D2E-402E-4C21-B244-94DEB838865A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab09", "Lab09", "{35935281-8BA0-4E34-852F-20B8F55DC987}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab09_TicketGenerator", "Lab09_TicketGenerator\Lab09_TicketGenerator.csproj", "{61FCA582-34E1-4DA3-A9BF-05FCCA64AA5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab09_TicketGenerator.App", "Lab09_TicketGenerator.App\Lab09_TicketGenerator.App.csproj", "{4115C351-F326-482C-B2D1-E8AFFB5E8B57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -83,6 +93,18 @@ Global
 		{AA5AA256-D0C2-4A32-84AD-7C316AF48651}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA5AA256-D0C2-4A32-84AD-7C316AF48651}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA5AA256-D0C2-4A32-84AD-7C316AF48651}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EDF9D2E-402E-4C21-B244-94DEB838865A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EDF9D2E-402E-4C21-B244-94DEB838865A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EDF9D2E-402E-4C21-B244-94DEB838865A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EDF9D2E-402E-4C21-B244-94DEB838865A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61FCA582-34E1-4DA3-A9BF-05FCCA64AA5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61FCA582-34E1-4DA3-A9BF-05FCCA64AA5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61FCA582-34E1-4DA3-A9BF-05FCCA64AA5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61FCA582-34E1-4DA3-A9BF-05FCCA64AA5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4115C351-F326-482C-B2D1-E8AFFB5E8B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4115C351-F326-482C-B2D1-E8AFFB5E8B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4115C351-F326-482C-B2D1-E8AFFB5E8B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4115C351-F326-482C-B2D1-E8AFFB5E8B57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -102,6 +124,9 @@ Global
 		{BA52BB14-BA6E-4F3E-870F-BB18DD2CA056} = {64DB33EB-01DD-4610-B078-7CD58EBF975C}
 		{8AAD5174-D455-41CA-BA08-39283B30458C} = {036696C3-ECD8-40AE-B858-E34776F05E0F}
 		{AA5AA256-D0C2-4A32-84AD-7C316AF48651} = {036696C3-ECD8-40AE-B858-E34776F05E0F}
+		{3EDF9D2E-402E-4C21-B244-94DEB838865A} = {5EB3BED4-8DC0-420D-A2ED-F15917A5A4AA}
+		{61FCA582-34E1-4DA3-A9BF-05FCCA64AA5B} = {35935281-8BA0-4E34-852F-20B8F55DC987}
+		{4115C351-F326-482C-B2D1-E8AFFB5E8B57} = {35935281-8BA0-4E34-852F-20B8F55DC987}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B9E5BC18-9476-44B3-98B2-5EB59119BCDD}

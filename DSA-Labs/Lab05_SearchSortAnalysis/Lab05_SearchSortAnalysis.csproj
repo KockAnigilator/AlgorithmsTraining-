@@ -56,5 +56,15 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Lab03_ShakerSort\Lab03_ShakerSort.csproj">
+      <Project>{09CF04CB-1CE8-4F82-9A65-6B9894CF52C7}</Project>
+      <Name>Lab03_ShakerSort</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lab03_ShakerSort_Example\Lab03_ShakerSort_Example.csproj">
+      <Project>{b70bda0a-ad8f-4386-aa81-24b9fe32620e}</Project>
+      <Name>Lab03_ShakerSort_Example</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
