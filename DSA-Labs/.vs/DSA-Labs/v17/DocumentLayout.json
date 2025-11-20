@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5AA256-D0C2-4A32-84AD-7C316AF48651}|Lab05_SearchSortAnalysis\\Lab05_SearchSortAnalysis.csproj|c:\\users\\dmitriy\\source\\repos\\dsa-labs\\lab05_searchsortanalysis\\analysis\\sortanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5AA256-D0C2-4A32-84AD-7C316AF48651}|Lab05_SearchSortAnalysis\\Lab05_SearchSortAnalysis.csproj|solutionrelative:lab05_searchsortanalysis\\analysis\\sortanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5AA256-D0C2-4A32-84AD-7C316AF48651}|Lab05_SearchSortAnalysis\\Lab05_SearchSortAnalysis.csproj|C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\lab05_searchsortanalysis\\analysis\\searchanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5AA256-D0C2-4A32-84AD-7C316AF48651}|Lab05_SearchSortAnalysis\\Lab05_SearchSortAnalysis.csproj|solutionrelative:lab05_searchsortanalysis\\analysis\\searchanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5AA256-D0C2-4A32-84AD-7C316AF48651}|Lab05_SearchSortAnalysis\\Lab05_SearchSortAnalysis.csproj|C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\lab05_searchsortanalysis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5AA256-D0C2-4A32-84AD-7C316AF48651}|Lab05_SearchSortAnalysis\\Lab05_SearchSortAnalysis.csproj|solutionrelative:lab05_searchsortanalysis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5AA256-D0C2-4A32-84AD-7C316AF48651}|Lab05_SearchSortAnalysis\\Lab05_SearchSortAnalysis.csproj|C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\lab05_searchsortanalysis\\searching\\binarysearcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5AA256-D0C2-4A32-84AD-7C316AF48651}|Lab05_SearchSortAnalysis\\Lab05_SearchSortAnalysis.csproj|solutionrelative:lab05_searchsortanalysis\\searching\\binarysearcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5AA256-D0C2-4A32-84AD-7C316AF48651}|Lab05_SearchSortAnalysis\\Lab05_SearchSortAnalysis.csproj|C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\lab05_searchsortanalysis\\searching\\linearsearcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5AA256-D0C2-4A32-84AD-7C316AF48651}|Lab05_SearchSortAnalysis\\Lab05_SearchSortAnalysis.csproj|solutionrelative:lab05_searchsortanalysis\\searching\\linearsearcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5AA256-D0C2-4A32-84AD-7C316AF48651}|Lab05_SearchSortAnalysis\\Lab05_SearchSortAnalysis.csproj|C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\lab05_searchsortanalysis\\sorting\\binaryinsertionsorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5AA256-D0C2-4A32-84AD-7C316AF48651}|Lab05_SearchSortAnalysis\\Lab05_SearchSortAnalysis.csproj|solutionrelative:lab05_searchsortanalysis\\sorting\\binaryinsertionsorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5AA256-D0C2-4A32-84AD-7C316AF48651}|Lab05_SearchSortAnalysis\\Lab05_SearchSortAnalysis.csproj|C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\lab05_searchsortanalysis\\sorting\\insertionsorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5AA256-D0C2-4A32-84AD-7C316AF48651}|Lab05_SearchSortAnalysis\\Lab05_SearchSortAnalysis.csproj|solutionrelative:lab05_searchsortanalysis\\sorting\\insertionsorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5AA256-D0C2-4A32-84AD-7C316AF48651}|Lab05_SearchSortAnalysis\\Lab05_SearchSortAnalysis.csproj|C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\lab05_searchsortanalysis\\sorting\\bubblesorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5AA256-D0C2-4A32-84AD-7C316AF48651}|Lab05_SearchSortAnalysis\\Lab05_SearchSortAnalysis.csproj|solutionrelative:lab05_searchsortanalysis\\sorting\\bubblesorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA52BB14-BA6E-4F3E-870F-BB18DD2CA056}|Lab04_InsertionGistSearch_Example\\Lab04_InsertionGistSearch_Example.csproj|C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\lab04_insertiongistsearch_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA52BB14-BA6E-4F3E-870F-BB18DD2CA056}|Lab04_InsertionGistSearch_Example\\Lab04_InsertionGistSearch_Example.csproj|solutionrelative:lab04_insertiongistsearch_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4EB9A6C-B831-4E39-AC50-695EA0281B1A}|Lab04_InsertionGistSearch\\Lab04_InsertionGistSearch.csproj|C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\lab04_insertiongistsearch\\sortinganalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4EB9A6C-B831-4E39-AC50-695EA0281B1A}|Lab04_InsertionGistSearch\\Lab04_InsertionGistSearch.csproj|solutionrelative:lab04_insertiongistsearch\\sortinganalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4EB9A6C-B831-4E39-AC50-695EA0281B1A}|Lab04_InsertionGistSearch\\Lab04_InsertionGistSearch.csproj|C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\lab04_insertiongistsearch\\gistinsertionsorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4EB9A6C-B831-4E39-AC50-695EA0281B1A}|Lab04_InsertionGistSearch\\Lab04_InsertionGistSearch.csproj|solutionrelative:lab04_insertiongistsearch\\gistinsertionsorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70BDA0A-AD8F-4386-AA81-24B9FE32620E}|Lab03_ShakerSort_Example\\Lab03_ShakerSort_Example.csproj|C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\lab03_shakersort_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70BDA0A-AD8F-4386-AA81-24B9FE32620E}|Lab03_ShakerSort_Example\\Lab03_ShakerSort_Example.csproj|solutionrelative:lab03_shakersort_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CF04CB-1CE8-4F82-9A65-6B9894CF52C7}|Lab03_ShakerSort\\Lab03_ShakerSort.csproj|C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\lab03_shakersort\\shakersorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CF04CB-1CE8-4F82-9A65-6B9894CF52C7}|Lab03_ShakerSort\\Lab03_ShakerSort.csproj|solutionrelative:lab03_shakersort\\shakersorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CF04CB-1CE8-4F82-9A65-6B9894CF52C7}|Lab03_ShakerSort\\Lab03_ShakerSort.csproj|C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\lab03_shakersort\\sortinganalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CF04CB-1CE8-4F82-9A65-6B9894CF52C7}|Lab03_ShakerSort\\Lab03_ShakerSort.csproj|solutionrelative:lab03_shakersort\\sortinganalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E9B8DC-C766-43C4-B072-8CA104C80A6F}|Lab02_EggDrop\\Lab02_EggDrop.csproj|C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\lab02_eggdrop\\eggdropsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E9B8DC-C766-43C4-B072-8CA104C80A6F}|Lab02_EggDrop\\Lab02_EggDrop.csproj|solutionrelative:lab02_eggdrop\\eggdropsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AB734A-76E7-4E37-8674-14803EE888AC}|Lab02_EggDrop_Example\\Lab02_EggDrop_Example.csproj|C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\lab02_eggdrop_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AB734A-76E7-4E37-8674-14803EE888AC}|Lab02_EggDrop_Example\\Lab02_EggDrop_Example.csproj|solutionrelative:lab02_eggdrop_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAD3E9B-94F7-4DAA-B614-FF65333B2772}|Lab01_Matrix\\Lab01_Matrix.csproj|C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\lab01_matrix\\squarematrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBAD3E9B-94F7-4DAA-B614-FF65333B2772}|Lab01_Matrix\\Lab01_Matrix.csproj|solutionrelative:lab01_matrix\\squarematrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAD3E9B-94F7-4DAA-B614-FF65333B2772}|Lab01_Matrix\\Lab01_Matrix.csproj|C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\lab01_matrix\\rectangularmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBAD3E9B-94F7-4DAA-B614-FF65333B2772}|Lab01_Matrix\\Lab01_Matrix.csproj|solutionrelative:lab01_matrix\\rectangularmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAD3E9B-94F7-4DAA-B614-FF65333B2772}|Lab01_Matrix\\Lab01_Matrix.csproj|C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\lab01_matrix\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBAD3E9B-94F7-4DAA-B614-FF65333B2772}|Lab01_Matrix\\Lab01_Matrix.csproj|solutionrelative:lab01_matrix\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5847D284-B8CF-40C5-9161-02F717F0369C}|Lab01_Matrix_Example\\Lab01_Matrix_Example.csproj|C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\lab01_matrix_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5847D284-B8CF-40C5-9161-02F717F0369C}|Lab01_Matrix_Example\\Lab01_Matrix_Example.csproj|solutionrelative:lab01_matrix_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InsertionSorter.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab05_SearchSortAnalysis\\Sorting\\InsertionSorter.cs",
+              "RelativeDocumentMoniker": "Lab05_SearchSortAnalysis\\Sorting\\InsertionSorter.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab05_SearchSortAnalysis\\Sorting\\InsertionSorter.cs",
+              "RelativeToolTip": "Lab05_SearchSortAnalysis\\Sorting\\InsertionSorter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T10:12:24.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BinaryInsertionSorter.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab05_SearchSortAnalysis\\Sorting\\BinaryInsertionSorter.cs",
+              "RelativeDocumentMoniker": "Lab05_SearchSortAnalysis\\Sorting\\BinaryInsertionSorter.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab05_SearchSortAnalysis\\Sorting\\BinaryInsertionSorter.cs",
+              "RelativeToolTip": "Lab05_SearchSortAnalysis\\Sorting\\BinaryInsertionSorter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T10:12:11.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BinarySearcher.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab05_SearchSortAnalysis\\Searching\\BinarySearcher.cs",
+              "RelativeDocumentMoniker": "Lab05_SearchSortAnalysis\\Searching\\BinarySearcher.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab05_SearchSortAnalysis\\Searching\\BinarySearcher.cs",
+              "RelativeToolTip": "Lab05_SearchSortAnalysis\\Searching\\BinarySearcher.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T10:11:53.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SortAnalysis.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab05_SearchSortAnalysis\\Analysis\\SortAnalysis.cs",
+              "RelativeDocumentMoniker": "Lab05_SearchSortAnalysis\\Analysis\\SortAnalysis.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab05_SearchSortAnalysis\\Analysis\\SortAnalysis.cs",
+              "RelativeToolTip": "Lab05_SearchSortAnalysis\\Analysis\\SortAnalysis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T10:11:13.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BubbleSorter.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab05_SearchSortAnalysis\\Sorting\\BubbleSorter.cs",
+              "RelativeDocumentMoniker": "Lab05_SearchSortAnalysis\\Sorting\\BubbleSorter.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab05_SearchSortAnalysis\\Sorting\\BubbleSorter.cs",
+              "RelativeToolTip": "Lab05_SearchSortAnalysis\\Sorting\\BubbleSorter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T10:12:34.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LinearSearcher.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab05_SearchSortAnalysis\\Searching\\LinearSearcher.cs",
+              "RelativeDocumentMoniker": "Lab05_SearchSortAnalysis\\Searching\\LinearSearcher.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab05_SearchSortAnalysis\\Searching\\LinearSearcher.cs",
+              "RelativeToolTip": "Lab05_SearchSortAnalysis\\Searching\\LinearSearcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T10:11:40.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchAnalysis.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab05_SearchSortAnalysis\\Analysis\\SearchAnalysis.cs",
+              "RelativeDocumentMoniker": "Lab05_SearchSortAnalysis\\Analysis\\SearchAnalysis.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab05_SearchSortAnalysis\\Analysis\\SearchAnalysis.cs",
+              "RelativeToolTip": "Lab05_SearchSortAnalysis\\Analysis\\SearchAnalysis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T10:11:26.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab05_SearchSortAnalysis\\Program.cs",
+              "RelativeDocumentMoniker": "Lab05_SearchSortAnalysis\\Program.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab05_SearchSortAnalysis\\Program.cs",
+              "RelativeToolTip": "Lab05_SearchSortAnalysis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T10:10:06.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab04_InsertionGistSearch_Example\\Program.cs",
+              "RelativeDocumentMoniker": "Lab04_InsertionGistSearch_Example\\Program.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab04_InsertionGistSearch_Example\\Program.cs",
+              "RelativeToolTip": "Lab04_InsertionGistSearch_Example\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T10:01:41.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SortingAnalysis.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab04_InsertionGistSearch\\SortingAnalysis.cs",
+              "RelativeDocumentMoniker": "Lab04_InsertionGistSearch\\SortingAnalysis.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab04_InsertionGistSearch\\SortingAnalysis.cs",
+              "RelativeToolTip": "Lab04_InsertionGistSearch\\SortingAnalysis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T10:01:17.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GistInsertionSorter.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab04_InsertionGistSearch\\GistInsertionSorter.cs",
+              "RelativeDocumentMoniker": "Lab04_InsertionGistSearch\\GistInsertionSorter.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab04_InsertionGistSearch\\GistInsertionSorter.cs",
+              "RelativeToolTip": "Lab04_InsertionGistSearch\\GistInsertionSorter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T10:00:55.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SortingAnalysis.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab03_ShakerSort\\SortingAnalysis.cs",
+              "RelativeDocumentMoniker": "Lab03_ShakerSort\\SortingAnalysis.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab03_ShakerSort\\SortingAnalysis.cs",
+              "RelativeToolTip": "Lab03_ShakerSort\\SortingAnalysis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T09:58:28.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab03_ShakerSort_Example\\Program.cs",
+              "RelativeDocumentMoniker": "Lab03_ShakerSort_Example\\Program.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab03_ShakerSort_Example\\Program.cs",
+              "RelativeToolTip": "Lab03_ShakerSort_Example\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T09:55:23.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShakerSorter.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab03_ShakerSort\\ShakerSorter.cs",
+              "RelativeDocumentMoniker": "Lab03_ShakerSort\\ShakerSorter.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab03_ShakerSort\\ShakerSorter.cs",
+              "RelativeToolTip": "Lab03_ShakerSort\\ShakerSorter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T09:54:13.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab02_EggDrop_Example\\Program.cs",
+              "RelativeDocumentMoniker": "Lab02_EggDrop_Example\\Program.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab02_EggDrop_Example\\Program.cs",
+              "RelativeToolTip": "Lab02_EggDrop_Example\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T09:52:08.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EggDropSolver.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab02_EggDrop\\EggDropSolver.cs",
+              "RelativeDocumentMoniker": "Lab02_EggDrop\\EggDropSolver.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab02_EggDrop\\EggDropSolver.cs",
+              "RelativeToolTip": "Lab02_EggDrop\\EggDropSolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T09:51:07.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab01_Matrix_Example\\Program.cs",
+              "RelativeDocumentMoniker": "Lab01_Matrix_Example\\Program.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab01_Matrix_Example\\Program.cs",
+              "RelativeToolTip": "Lab01_Matrix_Example\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA/wCAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T09:46:33.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SquareMatrix.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab01_Matrix\\SquareMatrix.cs",
+              "RelativeDocumentMoniker": "Lab01_Matrix\\SquareMatrix.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab01_Matrix\\SquareMatrix.cs",
+              "RelativeToolTip": "Lab01_Matrix\\SquareMatrix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T09:46:07.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RectangularMatrix.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab01_Matrix\\RectangularMatrix.cs",
+              "RelativeDocumentMoniker": "Lab01_Matrix\\RectangularMatrix.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab01_Matrix\\RectangularMatrix.cs",
+              "RelativeToolTip": "Lab01_Matrix\\RectangularMatrix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T09:45:33.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Matrix.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab01_Matrix\\Matrix.cs",
+              "RelativeDocumentMoniker": "Lab01_Matrix\\Matrix.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\source\\repos\\DSA-Labs\\Lab01_Matrix\\Matrix.cs",
+              "RelativeToolTip": "Lab01_Matrix\\Matrix.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAwwL4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T09:44:37.717Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

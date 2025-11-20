@@ -1,0 +1,6 @@
+C:\Users\Dmitriy\source\repos\DSA-Labs\Lab03_ShakerSort\bin\Debug\Lab03_ShakerSort.dll
+C:\Users\Dmitriy\source\repos\DSA-Labs\Lab03_ShakerSort\bin\Debug\Lab03_ShakerSort.pdb
+C:\Users\Dmitriy\source\repos\DSA-Labs\Lab03_ShakerSort\obj\Debug\Lab03_ShakerSort.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\source\repos\DSA-Labs\Lab03_ShakerSort\obj\Debug\Lab03_ShakerSort.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\source\repos\DSA-Labs\Lab03_ShakerSort\obj\Debug\Lab03_ShakerSort.dll
+C:\Users\Dmitriy\source\repos\DSA-Labs\Lab03_ShakerSort\obj\Debug\Lab03_ShakerSort.pdb

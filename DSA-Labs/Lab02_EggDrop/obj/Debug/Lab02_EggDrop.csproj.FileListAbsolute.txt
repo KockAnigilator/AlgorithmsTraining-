@@ -1,0 +1,6 @@
+C:\Users\Dmitriy\source\repos\DSA-Labs\Lab02_EggDrop\bin\Debug\Lab02_EggDrop.dll
+C:\Users\Dmitriy\source\repos\DSA-Labs\Lab02_EggDrop\bin\Debug\Lab02_EggDrop.pdb
+C:\Users\Dmitriy\source\repos\DSA-Labs\Lab02_EggDrop\obj\Debug\Lab02_EggDrop.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\source\repos\DSA-Labs\Lab02_EggDrop\obj\Debug\Lab02_EggDrop.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\source\repos\DSA-Labs\Lab02_EggDrop\obj\Debug\Lab02_EggDrop.dll
+C:\Users\Dmitriy\source\repos\DSA-Labs\Lab02_EggDrop\obj\Debug\Lab02_EggDrop.pdb

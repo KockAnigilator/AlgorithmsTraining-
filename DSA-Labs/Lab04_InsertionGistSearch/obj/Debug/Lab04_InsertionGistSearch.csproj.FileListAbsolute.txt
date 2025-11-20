@@ -1,0 +1,6 @@
+C:\Users\Dmitriy\source\repos\DSA-Labs\Lab04_InsertionGistSearch\bin\Debug\Lab04_InsertionGistSearch.dll
+C:\Users\Dmitriy\source\repos\DSA-Labs\Lab04_InsertionGistSearch\bin\Debug\Lab04_InsertionGistSearch.pdb
+C:\Users\Dmitriy\source\repos\DSA-Labs\Lab04_InsertionGistSearch\obj\Debug\Lab04_InsertionGistSearch.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\source\repos\DSA-Labs\Lab04_InsertionGistSearch\obj\Debug\Lab04_InsertionGistSearch.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\source\repos\DSA-Labs\Lab04_InsertionGistSearch\obj\Debug\Lab04_InsertionGistSearch.dll
+C:\Users\Dmitriy\source\repos\DSA-Labs\Lab04_InsertionGistSearch\obj\Debug\Lab04_InsertionGistSearch.pdb

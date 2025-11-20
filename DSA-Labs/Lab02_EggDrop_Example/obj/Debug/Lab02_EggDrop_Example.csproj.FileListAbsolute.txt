@@ -1,0 +1,11 @@
+C:\Users\Dmitriy\source\repos\DSA-Labs\Lab02_EggDrop_Example\bin\Debug\Lab02_EggDrop_Example.exe.config
+C:\Users\Dmitriy\source\repos\DSA-Labs\Lab02_EggDrop_Example\bin\Debug\Lab02_EggDrop_Example.exe
+C:\Users\Dmitriy\source\repos\DSA-Labs\Lab02_EggDrop_Example\bin\Debug\Lab02_EggDrop_Example.pdb
+C:\Users\Dmitriy\source\repos\DSA-Labs\Lab02_EggDrop_Example\bin\Debug\Lab02_EggDrop.dll
+C:\Users\Dmitriy\source\repos\DSA-Labs\Lab02_EggDrop_Example\bin\Debug\Lab02_EggDrop.pdb
+C:\Users\Dmitriy\source\repos\DSA-Labs\Lab02_EggDrop_Example\obj\Debug\Lab02_EggDrop_Example.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\source\repos\DSA-Labs\Lab02_EggDrop_Example\obj\Debug\Lab02_EggDrop_Example.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\source\repos\DSA-Labs\Lab02_EggDrop_Example\obj\Debug\Lab02_Eg.5C7960CD.Up2Date
+C:\Users\Dmitriy\source\repos\DSA-Labs\Lab02_EggDrop_Example\obj\Debug\Lab02_EggDrop_Example.exe
+C:\Users\Dmitriy\source\repos\DSA-Labs\Lab02_EggDrop_Example\obj\Debug\Lab02_EggDrop_Example.pdb
+C:\Users\Dmitriy\source\repos\DSA-Labs\Lab02_EggDrop_Example\obj\Debug\Lab02_EggDrop_Example.exe.config
