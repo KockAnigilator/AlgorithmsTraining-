@@ -6,30 +6,22 @@ using Lab09_TicketGenerator.Models;
 
 namespace Lab09_TicketGenerator.Repositories
 {
-    /// <summary>
-    /// Репозиторий для работы с настройками билетов в базе данных
-    /// </summary>
     public class TicketSettingsRepository : ITicketSettingsRepository
     {
         private readonly DatabaseService _dbService;
 
-        /// <summary>
-        /// Конструктор репозитория настроек
-        /// </summary>
         public TicketSettingsRepository(DatabaseService dbService)
         {
             _dbService = dbService;
         }
 
-        /// <summary>
-        /// Получает текущие настройки билетов
-        /// </summary>
         public TicketSettings GetSettings()
         {
             using (var connection = _dbService.GetConnection())
             {
                 connection.Open();
 
+                // ИСПРАВЛЕНО: TicketSettings (без 's')
                 string sql = "SELECT * FROM TicketSettings WHERE Id = 1";
                 using (var cmd = new SQLiteCommand(sql, connection))
                 using (var reader = cmd.ExecuteReader())
@@ -48,19 +40,16 @@ namespace Lab09_TicketGenerator.Repositories
                 }
             }
 
-            // Возвращаем настройки по умолчанию, если не найдены в БД
             return new TicketSettings();
         }
 
-        /// <summary>
-        /// Обновляет настройки билетов
-        /// </summary>
         public void UpdateSettings(TicketSettings settings)
         {
             using (var connection = _dbService.GetConnection())
             {
                 connection.Open();
 
+                // ИСПРАВЛЕНО: TicketSettings (без 's')
                 string sql = @"
                     UPDATE TicketSettings 
                     SET QuestionsPerTicket = @questionsPerTicket,
@@ -81,7 +70,6 @@ namespace Lab09_TicketGenerator.Repositories
 
                     int rowsAffected = cmd.ExecuteNonQuery();
 
-                    // Если запись не существует, создаем новую
                     if (rowsAffected == 0)
                     {
                         InsertSettings(settings, connection);
@@ -90,11 +78,9 @@ namespace Lab09_TicketGenerator.Repositories
             }
         }
 
-        /// <summary>
-        /// Вставляет новые настройки в базу данных
-        /// </summary>
         private void InsertSettings(TicketSettings settings, SQLiteConnection connection)
         {
+            // ИСПРАВЛЕНО: TicketSettings (без 's')
             string sql = @"
                 INSERT INTO TicketSettings (Id, QuestionsPerTicket, MaxTotalDifficulty, PracticeCount, LectureCount, BlitzCount)
                 VALUES (1, @questionsPerTicket, @maxTotalDifficulty, @practiceCount, @lectureCount, @blitzCount)";
@@ -111,9 +97,6 @@ namespace Lab09_TicketGenerator.Repositories
             }
         }
 
-        /// <summary>
-        /// Сбрасывает настройки к значениям по умолчанию
-        /// </summary>
         public void ResetToDefaults()
         {
             var defaultSettings = new TicketSettings();
