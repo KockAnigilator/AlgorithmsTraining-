@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
-VisualStudioVersion = 18.0.11217.181 d18.0
+VisualStudioVersion = 18.0.11217.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab01_Matrix", "Lab01_Matrix\Lab01_Matrix.csproj", "{FBAD3E9B-94F7-4DAA-B614-FF65333B2772}"
 EndProject
@@ -50,6 +50,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab09_TicketGenerator", "Lab09_TicketGenerator\Lab09_TicketGenerator.csproj", "{61FCA582-34E1-4DA3-A9BF-05FCCA64AA5B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab09_TicketGenerator.App", "Lab09_TicketGenerator.App\Lab09_TicketGenerator.App.csproj", "{4115C351-F326-482C-B2D1-E8AFFB5E8B57}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab11", "Lab11", "{0B0A064A-2BC4-402E-91D1-665A21CB2FFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab11_PipelineOptimization", "Lab11_PipelineOptimization\Lab11_PipelineOptimization.csproj", "{8C9D2382-49E1-4C10-ACA5-E5DB3F7B60E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +109,10 @@ Global
 		{4115C351-F326-482C-B2D1-E8AFFB5E8B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4115C351-F326-482C-B2D1-E8AFFB5E8B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4115C351-F326-482C-B2D1-E8AFFB5E8B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C9D2382-49E1-4C10-ACA5-E5DB3F7B60E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C9D2382-49E1-4C10-ACA5-E5DB3F7B60E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C9D2382-49E1-4C10-ACA5-E5DB3F7B60E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C9D2382-49E1-4C10-ACA5-E5DB3F7B60E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -127,6 +135,7 @@ Global
 		{3EDF9D2E-402E-4C21-B244-94DEB838865A} = {5EB3BED4-8DC0-420D-A2ED-F15917A5A4AA}
 		{61FCA582-34E1-4DA3-A9BF-05FCCA64AA5B} = {35935281-8BA0-4E34-852F-20B8F55DC987}
 		{4115C351-F326-482C-B2D1-E8AFFB5E8B57} = {35935281-8BA0-4E34-852F-20B8F55DC987}
+		{8C9D2382-49E1-4C10-ACA5-E5DB3F7B60E2} = {0B0A064A-2BC4-402E-91D1-665A21CB2FFF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B9E5BC18-9476-44B3-98B2-5EB59119BCDD}
