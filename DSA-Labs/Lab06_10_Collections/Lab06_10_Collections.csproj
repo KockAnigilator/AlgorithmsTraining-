@@ -72,6 +72,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Deque\Отчет\ЛР8_Отчет.docx" />
+    <None Include="List\Отчет\ЛР10_Отчет.docx" />
+    <None Include="Queue\Отчет\ЛР7_Отчет.docx" />
+    <None Include="Stack\Отчет\ЛР6_Отчет.docx" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

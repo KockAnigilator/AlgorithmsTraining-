@@ -10,14 +10,23 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab01", "Lab01", "{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Отчет", "Отчет", "{762207B2-D924-45BB-B878-0BC956DBB5B6}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Desktop\Отчеты Малек\ЛР1_Отчет.docx = ..\..\..\..\Desktop\Отчеты Малек\ЛР1_Отчет.docx
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab02", "Lab02", "{751D9251-195A-403B-A896-E60037918DBD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab03", "Lab03", "{78016DD4-7FD0-41F5-B388-882D1BBB7B55}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Отчет", "Отчет", "{19AAC6B6-B842-4FCA-8474-CC3756442C5B}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Desktop\Отчеты Малек\ЛР2_Отчет.docx = ..\..\..\..\Desktop\Отчеты Малек\ЛР2_Отчет.docx
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Отчет", "Отчет", "{21830379-E468-481D-9F08-2F0292FD58CB}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Desktop\Отчеты Малек\ЛР3_Отчет.docx = ..\..\..\..\Desktop\Отчеты Малек\ЛР3_Отчет.docx
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab02_EggDrop", "Lab02_EggDrop\Lab02_EggDrop.csproj", "{41E9B8DC-C766-43C4-B072-8CA104C80A6F}"
 EndProject
@@ -30,6 +39,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab04", "Lab04", "{64DB33EB-01DD-4610-B078-7CD58EBF975C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Отчет", "Отчет", "{3FDCF204-2681-4F0C-9220-925E11B26701}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Desktop\Отчеты Малек\ЛР4_Отчет.docx = ..\..\..\..\Desktop\Отчеты Малек\ЛР4_Отчет.docx
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab04_InsertionGistSearch", "Lab04_InsertionGistSearch\Lab04_InsertionGistSearch.csproj", "{A4EB9A6C-B831-4E39-AC50-695EA0281B1A}"
 EndProject
@@ -38,6 +50,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab05", "Lab05", "{036696C3-ECD8-40AE-B858-E34776F05E0F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Отчет", "Отчет", "{8AAD5174-D455-41CA-BA08-39283B30458C}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Desktop\Отчеты Малек\ЛР5_Отчет.docx = ..\..\..\..\Desktop\Отчеты Малек\ЛР5_Отчет.docx
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab05_SearchSortAnalysis", "Lab05_SearchSortAnalysis\Lab05_SearchSortAnalysis.csproj", "{AA5AA256-D0C2-4A32-84AD-7C316AF48651}"
 EndProject
@@ -54,6 +69,16 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab11", "Lab11", "{0B0A064A-2BC4-402E-91D1-665A21CB2FFF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab11_PipelineOptimization", "Lab11_PipelineOptimization\Lab11_PipelineOptimization.csproj", "{8C9D2382-49E1-4C10-ACA5-E5DB3F7B60E2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Отчет", "Отчет", "{E23A2991-0C52-4A06-B292-6CE959EB1EFB}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Desktop\Отчеты Малек\ЛР11_Отчет.docx = ..\..\..\..\Desktop\Отчеты Малек\ЛР11_Отчет.docx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Отчет", "Отчет", "{506005CA-CEA8-4EFA-AA26-79C77FE16B0B}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Desktop\Отчеты Малек\ЛР9_Отчет.docx = ..\..\..\..\Desktop\Отчеты Малек\ЛР9_Отчет.docx
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -136,6 +161,8 @@ Global
 		{61FCA582-34E1-4DA3-A9BF-05FCCA64AA5B} = {35935281-8BA0-4E34-852F-20B8F55DC987}
 		{4115C351-F326-482C-B2D1-E8AFFB5E8B57} = {35935281-8BA0-4E34-852F-20B8F55DC987}
 		{8C9D2382-49E1-4C10-ACA5-E5DB3F7B60E2} = {0B0A064A-2BC4-402E-91D1-665A21CB2FFF}
+		{E23A2991-0C52-4A06-B292-6CE959EB1EFB} = {0B0A064A-2BC4-402E-91D1-665A21CB2FFF}
+		{506005CA-CEA8-4EFA-AA26-79C77FE16B0B} = {35935281-8BA0-4E34-852F-20B8F55DC987}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B9E5BC18-9476-44B3-98B2-5EB59119BCDD}
